@@ -1,2 +1,2 @@
-# TimeSeries
+# Time Series Analysis
 Time series analysis and prediction, covering traditional modeling techniques such as AR, MA, ARMA, ARIMA, and SARIMA ([part 1](https://github.com/maduardar/TimeSeries/blob/master/Time%20Series%2C%20SARIMA.ipynb)), as well as modern machine learning approaches including Gradient Boosting and CatBoost ([part 2](https://github.com/maduardar/TimeSeries/blob/master/Time%20Series%2C%20full%20analysis.ipynb)).
